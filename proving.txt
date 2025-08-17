@@ -1,0 +1,17 @@
+0.time = [0, NONE, NONE, 17, NONE, NONE, NONE]
+0.distance = [0, NONE, NONE, 75, NONE, NONE, NONE]
+
+1.time = [7, NONE, NONE, 24, NONE, NONE, NONE]
+1.distance = [35, NONE, 110, NONE, NONE, NONE, NONE]
+
+2.time = [NONE, NONE, NONE, 11, NONE, NONE, NONE]
+2.distance = [NONE, NONE, NONE, 40, NONE, NONE, NONE]
+
+3.time = [NONE, NONE, NONE, NONE, NONE, NONE, NONE]
+3.distance = [NONE, NONE, NONE, NONE, NONE, NONE, NONE]
+
+4.time = [NONE, NONE, NONE, NONE, NONE, NONE, NONE]
+4.distance = [NONE, NONE, NONE, NONE, NONE, NONE, NONE]
+
+5.time = [NONE, NONE, NONE, NONE, NONE, NONE, NONE]
+5.distance = [NONE, NONE, NONE, NONE, NONE, NONE, NONE]
